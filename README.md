@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Oie%2C+Meu+nome+%C3%A9+Matheus+Amaral+:%29;Tenho+19+anos+de+Idade!;Curso+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja%2C+Bem-vindo)](https://git.io/typing-svg)
 
-<div align="center" style="display:inline_block;">
-   <img height="180em" align="center" style="display:inline_block; align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusCesarAmaral&show_icons=true&theme=dark">
-   <img  height="180em" align="center" style="display:inline_block;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCesarAmaral&layout=compact&theme=dark">
+<div align="center" style="display:flex; justify-content:space-beetwen;">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusCesarAmaral&hide=contribs,stars&count_private=true&show_icons=true&theme=dark">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCesarAmaral&theme=dark">
 </div>
 
 <div style="display: inline_block" align="center"><br>
